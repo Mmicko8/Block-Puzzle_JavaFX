@@ -1,0 +1,9 @@
+#goalTitle, #howToPlayTitle {
+    -fx-font-size: 250%;
+    -fx-text-fill: #996600;
+    -fx-text-alignment: center;
+}
+#madeBy {
+    -fx-font-style: italic;
+    -fx-font-size: 125%;
+}

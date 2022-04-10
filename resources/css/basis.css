@@ -1,0 +1,54 @@
+.root {
+    -fx-background-color: #e68a00;
+}
+
+.label {
+    -fx-font-family: "Blippo", fantasy;
+    -fx-font-size: xx-large;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.button, .text-field {
+    -fx-font-size: xx-large;
+}
+.menu-bar, .menu-item {
+    -fx-background-color: #996600;
+}
+
+.menu-item:hover {
+    -fx-background-color: #c2c2d6;
+}
+
+
+
+#zwarteKleurLabel{
+    -fx-background-color: black;
+    -fx-border-width: 5px;
+    -fx-border-color: white;
+}
+
+#blauweKleurLabel {
+    -fx-background-color: blue;
+    -fx-border-width: 5px;
+    -fx-border-color: white;
+}
+
+#rodeKleurLabel {
+    -fx-background-color: red;
+    -fx-border-width: 5px;
+    -fx-border-color: white;
+}
+
+#groeneKleurLabel{
+    -fx-background-color: green;
+    -fx-border-width: 5px;
+    -fx-border-color: white;
+}
+
+
+
+.text-field, .button, .toggle-button{
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+}
